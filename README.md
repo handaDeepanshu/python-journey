@@ -8,3 +8,4 @@ My daily Python learning journal toward GSoC 2027.
 
 ## Progress
 - Day 1: Variables, math, strings, basic I/O
+- Day 2: flow control, loops
